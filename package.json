@@ -1,0 +1,13 @@
+{
+  "name": "posthtml-favicon-parce-example",
+  "version": "1.0.0",
+  "main": "index.js",
+  "author": "Mohsen Azimi <me@azimi.me>",
+  "license": "MIT",
+  "dependencies": {
+    "parcel": "^1.9.3"
+  },
+  "scripts": {
+    "build": "parcel build index.html"
+  }
+}
